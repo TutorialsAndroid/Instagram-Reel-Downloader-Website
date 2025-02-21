@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['url'])) {
         CURLOPT_CUSTOMREQUEST => "GET",
         CURLOPT_HTTPHEADER => [
             "x-rapidapi-host: instagram-downloader-download-instagram-videos-stories1.p.rapidapi.com",
-            "x-rapidapi-key: cd2a6f4a2cmshb5e9d5458f5c208p1f07b4jsn01e0ecb0ad9e"
+            "x-rapidapi-key: API_KEY_HERE"
         ],
     ]);
 
