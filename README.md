@@ -26,7 +26,7 @@ To run this project, you need:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/instagram-reel-downloader.git
+   git clone https://github.com/TutorialsAndroid/Instagram-Reel-Downloader-Website.git
    cd instagram-reel-downloader
    ```
 
@@ -68,7 +68,7 @@ instagram-reel-downloader/
 This project is licensed under the MIT License.
 
 ## Author
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Akshay** - [GitHub Profile](https://github.com/TutorialsAndroid)
 
 ---
 Feel free to contribute or report any issues!
